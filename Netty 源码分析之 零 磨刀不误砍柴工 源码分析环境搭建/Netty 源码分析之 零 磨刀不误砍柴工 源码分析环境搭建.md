@@ -41,11 +41,11 @@ git checkout -b learn_netty_4.0.33
 
 ## IntelliJ IDEA 配置
 用 IntelliJ IDEA 打开工程, 工程结构如下:
-![Alt text](./Netty 源码工程结构.png)
+[源码工程结构](Netty 源码工程结构.png)
 一般情况下, 此时我们就可以打开 example 目录, 运行下面的例子了.
 不过有些读者可能会遇到 Maven 依赖下不全的问题, 此时我们可以点击右边的 Maven Project 标签, 然后点击蓝色的刷新按钮:
-![Alt text](./Netty Maven 依赖.png).
+[maven 依赖](Netty Maven 依赖.png).
 
 接下来我们可以运行 example 下的 EchoServer 看看:
-![Alt text](./EchoServer 运行.png)
+[echoService 运行](EchoServer 运行.png)
 如上图所示, 点击左边的绿色三角箭头即可运行了.
